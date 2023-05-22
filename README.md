@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Unreal Enginge and Unity**
 
-- 💬 Ask me about **theory of algorithms**
+- 💬 Ask me about **Game Development**
 
 - 👨‍💻 All of my projects are available at **https://github.com/chrisdan309**
 <h3 align="left">Connect with me:</h3>
