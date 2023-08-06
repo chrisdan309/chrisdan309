@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian Poma</h1>
 <h3 align="center">A passionate Game Developer</h3>
 
-- 🌱 I’m currently learning **Unreal Enginge and Unity**
+- 🌱 I’m currently learning **Unreal Engine and Unity**
 
 - 💬 Ask me about **Game Development**
 
